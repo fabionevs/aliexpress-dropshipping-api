@@ -3,7 +3,7 @@
 Servidor simples em **Node.js + Express** para integração com a **API Dropshipper (IOP)** do AliExpress.  
 Realiza autenticação OAuth, salva e renova tokens automaticamente e fornece endpoints prontos para categorias, produtos e frete.
 
-## 🚀 Front-end
+##  Front-end
 
 
 https://github.com/fabionevs/react-aliexpress-dropshipping-api
@@ -143,6 +143,8 @@ curl "http://localhost:3000/ds/frete/1005001234567890/2000000000000001?qnt=1&cou
 
 ---
 
-## 📄 Licença
+## 📄 Licença e Créditos
 
 MIT — uso livre, modifique conforme necessário.
+
+https://github.com/moh3a/ae_sdk
